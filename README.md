@@ -8,6 +8,8 @@
 
                                                           🌐 https://Samim984.github.io
 
+                                                          
+
                                                                     ✍️Abstract
 
 In an age where the world produces more news in a single day than a human can read in a lifetime, the ability to distill vast information into concise, meaningful summaries is no longer a luxury—it is a necessity. This thesis presents the Multi-Knowledge-Enhanced Model (MKEM) framework applied to both Single-Document Summarization (SDS) and Multi-Document Summarization (MDS) tasks. We explore and evaluate three state-of-the-art abstractive summarization models—T5, PEGASUS, and BART—across diverse datasets, including CNN/DailyMail, XSum, MultiNews, and a custom-built Indian news dataset ( NewsSum ). Through a carefully designed experimental pipeline, we measure performance using ROUGE metrics, BERTScore, and inference runtime, uncovering the unique strengths and weaknesses of each model. Our findings reveal distinct trade-offs between accuracy and efficiency, while offering a roadmap for building summarization systems capable of navigating the complexity of modern information landscapes.
